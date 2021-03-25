@@ -1,5 +1,5 @@
-### Hi there 👋
+### r333mo
 
 <!--
-https://github-readme-stats.vercel.app/api?username=r333mo&count_private=true&show_icons=true&hide=issues&theme=dark
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r333mo&count_private=true&show_icons=true&hide=issues&theme=dark)
 -->
